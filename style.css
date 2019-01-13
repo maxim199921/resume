@@ -63,19 +63,19 @@ input[type="checkbox"].visually-hidden, input[type="radio"].visually-hidden {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(img/authbackground2-min.png);
+  background-image: url(img/authbackground2-min.jpg);
   background-color: #000000; }
 
 .mdl-layout__drawer {
   color: #ffffff !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
-  background-image: url(img/authbackground2-min.png) !important; }
+  background-image: url(img/authbackground2-min.jpg) !important; }
   .mdl-layout__drawer .mdl-navigation__link__text {
     color: #ffffff !important; }
 
 .mdl-navigation__link:hover {
-  background-color: #000000;
+  background-color: #000000 !important;
   opacity: 0.6; }
 
 .demo-layout-transparent .mdl-layout__header,
